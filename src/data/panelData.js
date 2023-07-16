@@ -15,6 +15,11 @@
     title: "Balance",
     content: "I'm here to ensure the League of Shadow fulfills its duty to restore balance to civilization. You yourself fought the decadence of Gotham for years with all your strength, all your resources, all your moral authority. And the only victory you achieved was a lie. Now, you understand? Gotham is beyond saving and must be allowed to die.",
   },
+  {
+    title: "Isaac",
+    content: 'Hi. my name is isaac, and I like to have fun on the trampoline',
+  },
+  
 ]
 
 export default panelData
